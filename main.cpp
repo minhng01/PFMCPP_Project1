@@ -5,7 +5,7 @@
  Video: Chapter 2 Part 1
  
 Create a branch named Part1
-
+ 
 Purpose:  This project will get you thinking correctly about choosing good names for the tasks that your objects will perform. 
 This project will also introduce you to the review process, and how Pull Requests work.
 I will request a change be made to one of your 10 nouns for the sole purpose of showing how the review process works.
@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       bird
+//  action 1:   the bird flies
+bird.fly();
+//  action 2:   the bird sings
+bird.sing();
+//  action 3:   the bird pecks wood
+bird.peckWood();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       baby
+//  action 1:   the baby cries
+baby.cry();
+//  action 2:   the baby smiles
+baby.smile();
+//  action 3:   the baby sleeps
+baby.sleep();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       dog
+//  action 1:   the dog barks
+dog.bark();
+//  action 2:   the dog runs
+dog.run();
+//  action 3:   the dog drinks water
+dog.drinkWater();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       sun
+//  action 1:   the sun rises up
+sun.riseUp();
+//  action 2:   the sun goes down
+sun.goDown();
+//  action 3:   the sun shines light
+sun.shineLight();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       oven
+//  action 1:   the oven reaches temperature
+oven.reachTemperature();
+//  action 2:   the oven roasts chicken
+oven.roastChicken();
+//  action 3:   the oven burns food
+oven.burnFood();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       ballet dancer
+//  action 1:   the ballet dancer wears pointe shoes
+balletDancer.wearPointeShoes();
+//  action 2:   the ballet dancer performs solo
+balletDancer.performSolo();
+//  action 3:   the ballet dancer dance barefoot
+balletDancer.danceBarefoot();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       student
+//  action 1:   the student writes essay
+student.writeEssay();
+//  action 2:   the student review exam
+student.reviewExam();
+//  action 3:   the student study math
+student.studyMath();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       water bottle
+//  action 1:   the water bottle spills
+waterBottle.spill();
+//  action 2:   the water bottle leaks
+waterBottle.leak();
+//  action 3:   the water bottle contains liquid
+waterBottle.containLiquid();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       mobile phone
+//  action 1:   the mobile phone rings
+mobilePhone.ring();
+//  action 2:   the mobile phone vibrates
+mobilePhone.vibrate();
+//  action 3:   the mobile phone updates software
+mobilePhone.updateSoftware();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       security camera
+//  action 1:   the security camera records video
+securityCamera.recordVideo();
+//  action 2:   the security camera connects to Wifi
+securityCamera.connectToWifi();
+//  action 3:   the security camera detects motion
+securityCamera.detectMotion();
 
 
 #endif
