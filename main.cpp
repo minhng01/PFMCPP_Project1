@@ -92,13 +92,13 @@ oven.roastChicken();
 //  action 3:   the oven burns food
 oven.burnFood();
 //  6)
-//  Noun:       car
-//  action 1:   the car brakes
-car.brake();
-//  action 2:   the car turns left
-car.turnLeft();
-//  action 3:   the car speeds up
-car.speedUp();
+//  Noun:       ballet dancer
+//  action 1:   the ballet dancer wears pointe shoes
+balletDancer.wearPointeShoes();
+//  action 2:   the ballet dancer performs solo
+balletDancer.performSolo();
+//  action 3:   the ballet dancer dance barefoot
+balletDancer.danceBarefoot();
 //  7)
 //  Noun:       student
 //  action 1:   the student writes essay
